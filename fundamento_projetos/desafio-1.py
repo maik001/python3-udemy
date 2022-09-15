@@ -6,4 +6,5 @@ despesas = 2456.2
 
 # Calcula o salário sobre o percentual das despesas
 percentual_salario = despesas / salario * 100
+
 print(percentual_salario)

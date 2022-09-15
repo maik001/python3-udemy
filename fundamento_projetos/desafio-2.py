@@ -23,5 +23,5 @@ sorvete = trabalho_terca or trabalho_quinta
 # Terceiro Cenário - Nenhum dos trabalhos dá certo
 mais_saudavel = not sorvete
 
-print("Tv50={} Tv32={} Sorvete={} Saudavel={}"
-    .format(tv_50, tv_32, sorvete, mais_saudavel))
+print("Tv50={} Tv32={} Sorvete={} Saudavel={}".format(tv_50, tv_32, sorvete, mais_saudavel))
+
